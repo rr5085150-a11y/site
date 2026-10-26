@@ -1,0 +1,6 @@
+{
+  "name": "Maa Gayatri Electronics — Smart Appliances, Mobiles & 0% No-Cost EMI Store",
+  "description": "Premier electronics and home appliances showroom offering ACs, Smart TVs, Refrigerators, Washing Machines, Mobiles, and Inverters with instant 0% No-Cost EMI and old exchange bonuses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
